@@ -1,0 +1,8 @@
+a = ("mango","banana","apple","orange","kiwi")
+print(a.count("apple"))
+print(a.index("apple"))
+print(type(a))
+l = list(a)
+print(type(l))
+t = tuple(l)
+print(type(t))
